@@ -1,7 +1,7 @@
 # vidsrc
 Basically it webscrapes and automates vidsrc-server, using python.
 
-##install
+## Install
 
 ```sh
 pip install imdbpy
