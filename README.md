@@ -1,8 +1,9 @@
 # vidsrc
-basically it webscrapes and automates vidsrc-server, using python.
+Basically it webscrapes and automates vidsrc-server, using python.
 
-Installation steps:
+##install
 
+```sh
 pip install imdbpy
 
 pip install webbrowser
@@ -10,3 +11,5 @@ pip install webbrowser
 git clone https://github.com/isg32/vidsrc/
 
 python3 vidsrc.py
+```
+Visit My Website [(ISG32)](isg32.github.io/Home)
