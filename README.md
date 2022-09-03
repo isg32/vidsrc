@@ -17,5 +17,7 @@ Visit My Website [(ISG32)](isg32.github.io/Home)
 ## Homies
 
 [(Ani-Cli)](https://github.com/pystardust/ani-cli) : A terminal Anime Shell Script.
+
 [(Cloudstream)](https://github.com/recloudstream/cloudstream) : A scraping Movies & series streaming app.
+
 [(Saikou)](https://github.com/saikou-app/saikou) : Kotlin based Anime streaming android app.
