@@ -12,7 +12,7 @@ git clone https://github.com/isg32/vidsrc/
 
 python3 vidsrc.py
 ```
-Visit My Website [|ISG32|](isg32.github.io/Home)
+Visit My Website [ ISG32 ](isg32.github.io/Home)
 
 ## Homies
 
