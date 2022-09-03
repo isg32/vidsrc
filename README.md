@@ -8,13 +8,20 @@ pip install imdbpy
 
 pip install webbrowser
 
-python3 -m pip install --user imdbpy
-
 git clone https://github.com/isg32/vidsrc/
 
 python3 vidsrc.py
 ```
 Visit My Website [ ISG32 ](isg32.github.io/Home)
+
+## Bug Fixes
+```
+python3 -m pip install --user imdbpy
+
+python3 -m pip install --user webbrowser
+
+```
+
 
 ## Homies
 
