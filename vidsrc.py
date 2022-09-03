@@ -28,7 +28,7 @@ def series():
     print("Playing in You Webbrowser...")
     webbrowser.open(x)
 
-print("\n                Visit: https://isg32.github.io/Home                     \n")
+print("\033[1;32m\n                Visit: https://isg32.github.io/Home                     \n")
 
 print("\n[1] Movie \n[2] Series")
 decis = int(input("\n>> "))
