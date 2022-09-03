@@ -21,3 +21,7 @@ Visit My Website [(ISG32)](isg32.github.io/Home)
 [(Cloudstream)](https://github.com/recloudstream/cloudstream) : A scraping Movies & series streaming app.
 
 [(Saikou)](https://github.com/saikou-app/saikou) : Kotlin based Anime streaming android app.
+
+## License
+
+Saikou is licensed under the [MIT License](LICENSE)
