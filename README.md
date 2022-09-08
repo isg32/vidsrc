@@ -1,8 +1,7 @@
 # vidsrc
 Basically it webscrapes and automates vidsrc-server, using python.
 
-https://github.com/isg32/vidsrc/blob/main/304198589_480362590307505_8231293558814691295_n.mp4?raw=true
-
+https://youtu.be/YSYNIMGv-NQ
 
 ## Website
 
