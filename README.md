@@ -1,7 +1,7 @@
 # vidsrc
 Basically it webscrapes and automates vidsrc-server, using python.
 
-https://youtu.be/YSYNIMGv-NQ
+https://user-images.githubusercontent.com/95901240/189190545-e9a408f3-23d3-48fb-9e0c-3ffdaa5c894e.mp4
 
 ## Website
 
