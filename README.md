@@ -38,4 +38,4 @@ python3 -m pip install --user webbrowser
 
 ## License
 
-Saikou is licensed under the [MIT License](LICENSE)
+vidsrc is licensed under the [MIT License](LICENSE)
