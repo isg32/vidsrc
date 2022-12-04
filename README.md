@@ -23,7 +23,9 @@ python3 vidsrc.py
 ```
 python3 -m pip install --user imdbpy
 
-python3 -m pip install --user webbrowser
+X python3 -m pip install --user webbrowser X
+
+# Now webbrowser module already included !
 
 ```
 
